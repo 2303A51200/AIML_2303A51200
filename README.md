@@ -8,3 +8,5 @@ lab2 A* https://github.com/2303A51200/AIML_2303A51200/blob/main/Untitled3.ipynb
 lab 5 https://github.com/2303A51200/AIML_2303A51200/blob/main/lab_5.ipynb
 
 lab 6 https://github.com/2303A51200/AIML_2303A51200/blob/main/lab_6.ipynb
+
+lab 7 https://github.com/2303A51200/AIML_2303A51200/blob/main/lab_7.ipynb
